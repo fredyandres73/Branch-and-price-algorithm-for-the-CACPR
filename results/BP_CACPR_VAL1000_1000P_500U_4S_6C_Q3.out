@@ -1,0 +1,1 @@
+VAL1000_1000P_500U_4S_6C Q:3 rho:15 tl:3600 v3.5 (F1-F39: +pulido de dives y conciencia de hilos) | estado:TL | Modelo Z:n/a gap:0.00% t:0.00 | Raiz it:41 cols:7421 LB:409905.00 t:201.70 | IMP Obj:543063.00 gap:23.75% t:201.79 | cardLP:42.73 K:43 | dive:0/1 | Arbol nodos:122/243 itCG:703 colsH:13271 colsE:553 UB:533599.00 LB:409905.00 gapArbol:23.18% t:3600.17 | gapDirecto:0.00%
